@@ -1,0 +1,14 @@
+/* Slide.css */
+
+@keyframes slide-up {
+  0% {
+    visibility: visible;
+    top: 23rem;
+  }
+  100% {
+    visibility: visible;
+    top: 17rem;
+  }
+}
+
+/* Your other CSS styles for the Slider component */
